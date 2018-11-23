@@ -8,7 +8,7 @@ Just clone the repo and begin your program with this line:
 
 ## Usage
 
-Moniker simply provides a nicer syntax for quickly defining simple python functions.
+Moniker provides a nicer syntax for quickly defining simple python functions.
 
     # "def" syntax
     def f(x):
